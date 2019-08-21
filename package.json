@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "infrastructure-scripts": "{§SCRIPTS_VERSION§}",
+    "serverless-dynamodb-local": "^0.2.30",
     "serverless-offline": "^4.9.4",
     "serverless-pseudo-parameters": "^2.4.0",
     "serverless-single-page-app-plugin": "^1.0.2"
